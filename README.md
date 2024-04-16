@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jyao74 - Jason
 - 👀 I’m interested in Hospitality and SQL
-- 🌱 I’m currently learning SQL, Power BI and Tableau
+- 🌱 I’m currently learning SQL, Power BI, and Tableau
 - 💞️ I’m looking to collaborate on SQL or WFH opportunities.
 - 📫 How to reach me is at my email - jyao74@gmail.com
 - 😄 Pronouns: He/Him
